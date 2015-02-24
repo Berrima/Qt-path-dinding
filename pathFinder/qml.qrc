@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CellItem.qml</file>
+        <file>src/finders/AStarFinder.js</file>
+        <file>src/core/DiagonalMovement.js</file>
+        <file>src/core/heap.js</file>
+        <file>src/core/Node.js</file>
+        <file>src/core/Grid.js</file>
+        <file>src/core/Heuristic.js</file>
+        <file>src/core/Util.js</file>
+    </qresource>
+</RCC>
